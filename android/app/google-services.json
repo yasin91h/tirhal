@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690712665226",
+    "project_id": "tirhal-2e54b",
+    "storage_bucket": "tirhal-2e54b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690712665226:android:55e0f55e6bb2ef1b0aa173",
+        "android_client_info": {
+          "package_name": "com.example.tirhal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCED0YULdYLM6ZcDrhWUF4IYExpyiZhu5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
